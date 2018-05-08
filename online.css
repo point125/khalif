@@ -1,3 +1,11 @@
-html{
+body {
     background-image: url("http://www.sportsgamersonline.com/wp-content/uploads/2017/09/2k-support-saves-lost.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.title {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Gill Sans", sans-serif;
+    color: white;
 }
